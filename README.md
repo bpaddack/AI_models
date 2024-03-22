@@ -1,5 +1,6 @@
 # AI_models
-Python code for various A.I. models
+Please note that all code was written within Google Colaboratory. Copying this code directly into 
+Jupyter notebooks will result in errors due to the presence of google-specific code.
 
 This is a repository which demonstrates various A.I. Models and exploratory data analysis (EDA) 
 techniques from various Python packages/libraries.

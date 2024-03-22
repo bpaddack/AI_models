@@ -27,15 +27,29 @@ install the packages from your console/terminal with the 'pip' format:
    d. Post-pruning
 
 3. TheraBank_ML_Advanced
-   This notebook uses the 'BankChurners.csv' dataset to create advanced machine learning models. These models include the use of
-   oversampled and undersampled data approaches for the following models:
+   This notebook uses the 'BankChurners.csv' dataset to create advanced machine learning models. These models
+   include the use of oversampled and undersampled data approaches for the following models:
    a. AdaBoost
    b. GradientBoost
    c. XGBoost
    d. Random Forest
    e. Bagging
 
-4. 
+5. Bank_NeuralNetwork
+   This notebook explores a Neural Network model and uses the 'Bank_NN.csv' data set with the following model
+   configrations:
+   a. Adam Optimizer
+   b. with Dropout
+   c. with Hyperparameter Tuning
+   d. with Balanced Data
+
+6. PlantClassification_ComputerVision
+   This notebook uses two datasets: 'images.npy' (images) and 'Labels.csv' (labels) to create a computer vision
+   model that can recognize and classify various plant seedlings.
+
+7. Generative-IT_LLM_NLP
+   This ticket uses a 'hugging face' repository llama-based LLM to classify incoming IT support ticket requests
+   and formulate a response via prompts. The data is from 'support_ticket_text_data_mid_term.csv'. 
    
 
    

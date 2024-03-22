@@ -15,6 +15,20 @@ install the packages from your console/terminal with the 'pip' format:
 * pandas
 * matplotlib
 * seaborn
+* scikit-learn
+* imbalanced-learn
+* xgboost
+* tensorflow
+
+## Data Files:
+|Project                           |Dataset                              |
+|----------------------------------|-------------------------------------|
+|FoodHub_EDA                       |foodhub_order.csv                    |
+|AllLifeBank_ML_DecisionTree       |Loan_Modelling.csv                   |
+|TheraBank_ML_Advanced             |BankChurners.csv                     |
+|Bank_NeuralNetwork                |Bank_NN.csv                          |
+|PlantClassification_ComputerVision|images.npy<br>Labels.csv             |
+|Generative-IT_LLM_NLP             |support_ticket_text_data_mid_term.csv|
 
 ## Projects:
 
@@ -38,7 +52,7 @@ install the packages from your console/terminal with the 'pip' format:
    - Random Forest
    - Bagging
 
-5. Bank_NeuralNetwork
+4. Bank_NeuralNetwork
    This notebook explores a Neural Network model and uses the '**Bank_NN.csv**' data set with the following model
    configrations:
    - Adam Optimizer
@@ -46,11 +60,11 @@ install the packages from your console/terminal with the 'pip' format:
    - with Hyperparameter Tuning
    - with Balanced Data
 
-6. PlantClassification_ComputerVision
+5. PlantClassification_ComputerVision
    This notebook uses two datasets: '**images.npy**' (images) and '**Labels.csv**' (labels) to create a computer vision
    model that can recognize and classify various plant seedlings.
 
-7. Generative-IT_LLM_NLP
+6. Generative-IT_LLM_NLP
    This ticket uses a *hugging face* repository llama-based LLM to classify incoming IT support ticket requests
    and formulate a response via prompts. The data is from '**support_ticket_text_data_mid_term.csv**'. Note that tha
    prompts I used will not necessarily generate the the exact same response for you (if you run the code).

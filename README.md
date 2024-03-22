@@ -7,7 +7,7 @@ techniques from various Python packages/libraries.
 
 To run this code, the following packages will need to be installed in your Python environment. You can 
 install the packages from your console/terminal with the 'pip' format:
-> pip install seaborn
+`> pip install seaborn`
 >
 ## Packages:
 * numpy

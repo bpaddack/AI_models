@@ -9,11 +9,13 @@ To run this code, the following packages will need to be installed in your Pytho
 install the packages from your console/terminal with the 'pip' format:
 > pip install seaborn
 >
-**Packages:**
+## Packages:
 * numpy
 * pandas
 * matplotlib
 * seaborn
+
+## Projects:
 
 1. FoodHub_EDA
    This is an EDA notebook that explores the 'foodhub_order.csv' dataset.
@@ -21,27 +23,27 @@ install the packages from your console/terminal with the 'pip' format:
 2. AllLifeBank_ML_DecisionTree
    This notebook uses the 'Loan_Modelling.csv' dataset to create 'Decision Tree' machine learning models.
    Steps to complete feature-engineering tasks are included. The following models are included:
-   a. limiting the 'max_depth' of the tree
-   b. performing a GridSearchCV
-   c. Cost-Complexity (pre-pruning)
-   d. Post-pruning
+   - limiting the 'max_depth' of the tree
+   - performing a GridSearchCV
+   - Cost-Complexity (pre-pruning)
+   - Post-pruning
 
 3. TheraBank_ML_Advanced
    This notebook uses the 'BankChurners.csv' dataset to create advanced machine learning models. These models
    include the use of oversampled and undersampled data approaches for the following models:
-   a. AdaBoost
-   b. GradientBoost
-   c. XGBoost
-   d. Random Forest
-   e. Bagging
+   - AdaBoost
+   - GradientBoost
+   - XGBoost
+   - Random Forest
+   - Bagging
 
 5. Bank_NeuralNetwork
    This notebook explores a Neural Network model and uses the 'Bank_NN.csv' data set with the following model
    configrations:
-   a. Adam Optimizer
-   b. with Dropout
-   c. with Hyperparameter Tuning
-   d. with Balanced Data
+   - Adam Optimizer
+   - with Dropout
+   - with Hyperparameter Tuning
+   - with Balanced Data
 
 6. PlantClassification_ComputerVision
    This notebook uses two datasets: 'images.npy' (images) and 'Labels.csv' (labels) to create a computer vision

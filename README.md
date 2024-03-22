@@ -49,7 +49,8 @@ install the packages from your console/terminal with the 'pip' format:
 
 7. Generative-IT_LLM_NLP
    This ticket uses a 'hugging face' repository llama-based LLM to classify incoming IT support ticket requests
-   and formulate a response via prompts. The data is from 'support_ticket_text_data_mid_term.csv'. 
+   and formulate a response via prompts. The data is from 'support_ticket_text_data_mid_term.csv'. Note that tha
+   prompts I used will not necessarily generate the the exact same response for you (if you run the code).
    
 
    

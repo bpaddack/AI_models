@@ -62,9 +62,9 @@ install the packages from your console/terminal with the 'pip' format:
 
 5. PlantClassification_ComputerVision
    This notebook uses two datasets: '**images.npy**' (images) and '**Labels.csv**' (labels) to create a computer vision
-   model that can recognize and classify various plant seedlings.
+   model that can recognize and classify various plant seedlings. The images file is 228MB and can be [downloaded](https://drive.google.com/file/d/1BvvbCH9oMWDnZBuOwUpSKk7QWXn_7uGF/view?usp=sharing).
 
-6. Generative-IT_LLM_NLP
+7. Generative-IT_LLM_NLP
    This ticket uses a *hugging face* repository llama-based LLM to classify incoming IT support ticket requests
    and formulate a response via prompts. The data is from '**support_ticket_text_data_mid_term.csv**'. Note that tha
    prompts I used will not necessarily generate the the exact same response for you (if you run the code).

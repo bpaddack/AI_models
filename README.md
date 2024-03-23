@@ -26,6 +26,9 @@ account with the following code:
 * imbalanced-learn
 * xgboost
 * tensorflow
+* opencv-python
+* scikeras
+
 
 ## Data Files:
 |Project                           |Dataset                              |

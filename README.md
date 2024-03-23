@@ -10,6 +10,13 @@ install the packages from your console/terminal with the 'pip' format:
 
 `> pip install seaborn`
 
+Additionally, each of these workbooks reads in data from Google Drive. You can mount your google drive
+account with the following code:
+
+`from google.colab import drive`<br>
+`drive.mount('/content/drive')`
+
+
 ## Packages:
 * numpy
 * pandas
